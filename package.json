@@ -1,0 +1,16 @@
+{
+  "name": "last-video-recorder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "湫曗 <autumnsilverleaves@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.1.0"
+  },
+  "dependencies": {
+    "videorecording": "^1.1.1"
+  }
+}
