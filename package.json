@@ -5,7 +5,8 @@
   "author": "湫曗 <autumnsilverleaves@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "serve": "vite"
+    "serve": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
     "vite": "^2.1.0"
